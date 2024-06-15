@@ -9,7 +9,7 @@
     <img src="https://github.com/565059/565059/assets/118855900/3233e538-50de-4839-b2bb-e0f35e39b722" alt="pc">
 </h1>
 <h2 align="center">
-    Social Buttons
+    My Statistics
     <br>
     <br>
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,7 +17,7 @@
     </a>
 </h2>
 <h2 align="center">
-    My Statistics
+    Social Buttons
     <br>
     <br>
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/56_50_59">
