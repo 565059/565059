@@ -9,9 +9,10 @@
     <img src="https://github.com/565059/565059/assets/118855900/3233e538-50de-4839-b2bb-e0f35e39b722" alt="pc">
 </h1>
 </samp>
+<div>
 <h2>Social Buttons</h2>
-
-[![565059's GitHub stats](https://github-readme-stats.vercel.app/api?username=565059)](https://github.com/anuraghazra/github-readme-stats)
+<a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=565059"></a>
+</div>
 <div align="center">
     <h2>My Statistics</h2>
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/56_50_59">
