@@ -1,5 +1,5 @@
 <samp>
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace">
+<h1 align="center">
     <br>
     Hello there! 
     <br>
@@ -8,11 +8,13 @@
     <br>
     <img src="https://github.com/565059/565059/assets/118855900/3233e538-50de-4839-b2bb-e0f35e39b722" alt="pc">
 </h1>
-</samp>
-<div>
-<h2>Social Buttons</h2>
-<a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=565059"></a>
-</div>
+<h2 align="center">
+    Social Buttons
+    <br>
+    <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=565059">
+    </a>
+</h2>
 <div align="center">
     <h2>My Statistics</h2>
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/56_50_59">
@@ -22,3 +24,4 @@
         <img src="https://github.com/565059/565059/assets/118855900/b16540d5-8016-4e06-82ca-375ada9caf45" alt="linkedin">
     </a>
 </div>
+</samp>
