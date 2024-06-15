@@ -16,7 +16,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=565059">
     </a>
 </h2>
-<div align="center">
+<h2 align="center">
     <h2>My Statistics</h2>
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/56_50_59">
         <img src="https://github.com/565059/565059/assets/118855900/58e785db-e118-4d20-ae49-6741f6a0410c" alt="twitter">
@@ -24,5 +24,5 @@
     <a rel="nofillow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/luis-fern%C3%A1ndez-castelo-06358025b/?locale=en_US">
         <img src="https://github.com/565059/565059/assets/118855900/b16540d5-8016-4e06-82ca-375ada9caf45" alt="linkedin">
     </a>
-</div>
+</h2>
 </samp>
