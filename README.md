@@ -17,7 +17,9 @@
     </a>
 </h2>
 <h2 align="center">
-    <h2>My Statistics</h2>
+    My Statistics
+    <br>
+    <br>
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/56_50_59">
         <img src="https://github.com/565059/565059/assets/118855900/58e785db-e118-4d20-ae49-6741f6a0410c" alt="twitter">
     </a>
