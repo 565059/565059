@@ -1,4 +1,5 @@
-<p align="center" style="font-family: 'Courier New', Courier, monospace">
+<samp>
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace">
     <br>
     Hello there! 
     <br>
@@ -6,7 +7,8 @@
     <br>
     <br>
     <img src="https://github.com/565059/565059/assets/118855900/3233e538-50de-4839-b2bb-e0f35e39b722" alt="pc">
-</p>
+</h1>
+</samp>
 <h2>Social Buttons</h2>
 
 [![565059's GitHub stats](https://github-readme-stats.vercel.app/api?username=565059)](https://github.com/anuraghazra/github-readme-stats)
