@@ -1,4 +1,4 @@
-<p align="center" style="font-family: 'Courier New', Courier, monospace">
+<p align="center"">
     <br>
     Hello there! 
     <br>
