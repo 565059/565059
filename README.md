@@ -1,5 +1,5 @@
 <html>
-    <p align="center"">
+    <p align="center" style="color=red">
         <samp>
                 <br>
                 Hello there! 
