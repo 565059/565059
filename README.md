@@ -3,10 +3,10 @@
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=B0BEC5&center=true&vCenter=true&random=false&width=510&height=40&lines=Hello+there!;I'm+Luis;A+Programming+Student+from+Spain"                 alt="Typing SVG" />
         </a>
-    </h1>
         <br>
         <br>
         <img src="https://github.com/565059/565059/assets/118855900/3233e538-50de-4839-b2bb-e0f35e39b722" alt="pc">
+    </h1>
     <h2 align="center">
         My Statistics
         <br>
