@@ -1,8 +1,9 @@
 <samp>
     <h1 align="center">
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=B0BEC5&center=true&vCenter=true&random=false&width=510&height=40&lines=Hello+there!;I'm+Luis;A+Programming+Student+from+Spain"                 alt="Typing SVG" />
+        <a rel="nofollow noopener noreferrer" target="_blank" href="">
+            <img src="https://github.com/565059/565059/assets/118855900/83d281ce-b4e1-4fef-bf60-2bcd809d7fcc">
         </a>
+
         <br>
         <br>
         <img src="https://github.com/565059/565059/assets/118855900/9a829ae6-47c2-4f61-9e1c-2e39ce12272d" alt="pc">
