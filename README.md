@@ -1,7 +1,7 @@
 <samp>
     <h1 align="center">
         <a rel="nofollow noopener noreferrer" target="_blank" href="">
-            <img src="https://github.com/565059/565059/assets/118855900/83d281ce-b4e1-4fef-bf60-2bcd809d7fcc">
+            <img src="https://github.com/565059/565059/assets/118855900/03a724fb-f978-4e4b-bb17-868301985230">
         </a>
         <br>
         <br>
