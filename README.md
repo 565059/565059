@@ -1,7 +1,7 @@
 <samp>
     <h1 align="center">
         <a rel="nofollow noopener noreferrer" target="_blank" href="">
-            <img src="https://github.com/565059/565059/assets/118855900/03a724fb-f978-4e4b-bb17-868301985230">
+            <img src="https://github.com/565059/565059/assets/118855900/03a724fb-f978-4e4b-bb17-868301985230" alt="title">
         </a>
         <br>
         <br>
@@ -14,6 +14,11 @@
         <br>
         <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=565059">
+        </a>
+    </h2>
+    <h2 align="center">
+        <a rel="nofollow noopener noreferrer" target="blank" href="">
+            <img src="https://github.com/565059/565059/assets/118855900/1951d02a-ddef-45fa-8af2-2c6f2f1f3a83" alt="lang-tools">
         </a>
     </h2>
     <h2 align="center">
