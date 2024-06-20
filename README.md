@@ -18,7 +18,7 @@
     </h2>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
-            <img src="https://github.com/565059/565059/assets/118855900/1951d02a-ddef-45fa-8af2-2c6f2f1f3a83" alt="lang-tools">
+            <img src="https://github.com/565059/565059/assets/118855900/f8e683e5-f4ee-4bb1-8ded-eb9e069545c0" alt="lang-tools">
         </a>
     </h2>
     <h2 align="center">
