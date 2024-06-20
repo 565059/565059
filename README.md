@@ -3,12 +3,10 @@
         <a rel="nofollow noopener noreferrer" target="_blank" href="">
             <img src="https://github.com/565059/565059/assets/118855900/fa743a9b-8795-43fb-8deb-502f0953d52e" alt="title">
         </a>
-        <br>
-        <br>
-        <div>
-            <img src="https://github.com/565059/565059/assets/118855900/3b644c9e-6a68-4add-8f1d-a8c1e2d6331d" alt="pc">
-        </div>
     </h1>
+    <div align="center">
+            <img src="https://github.com/565059/565059/assets/118855900/3b644c9e-6a68-4add-8f1d-a8c1e2d6331d" alt="pc">
+    </div>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
             <img src="https://github.com/565059/565059/assets/118855900/bc813212-77a9-4d7b-98ba-b949286d7e27" alt="statistics">
