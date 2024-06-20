@@ -5,7 +5,9 @@
         </a>
         <br>
         <br>
-        <img src="https://github.com/565059/565059/assets/118855900/3b644c9e-6a68-4add-8f1d-a8c1e2d6331d" alt="pc">
+        <div>
+            <img src="https://github.com/565059/565059/assets/118855900/3b644c9e-6a68-4add-8f1d-a8c1e2d6331d" alt="pc">
+        </div>
     </h1>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
