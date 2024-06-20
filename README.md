@@ -23,7 +23,7 @@
         </a>
     </h2>
     <div align="center">
-        <img src="https://github.com/565059/565059/assets/118855900/72add8bc-1165-4c5e-b918-d985060edc76" alt="cpp">
+        <img src="https://github.com/565059/565059/assets/118855900/36428572-cee5-4891-852c-a5aac6602c0d" alt="cpp">
     </div>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="_blank" href="">
