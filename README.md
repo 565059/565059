@@ -27,6 +27,7 @@
         <img src="https://github.com/565059/565059/assets/118855900/767ef2c2-f939-4b6d-8df3-0125ec1af89c" alt="python">
         <img src="https://github.com/565059/565059/assets/118855900/79104a81-1ba1-457a-b748-5acd1f4b69bb" alt="csharp">
         <img src="https://github.com/565059/565059/assets/118855900/dcfd46fc-6236-4c31-ad34-b6d8fcbf230b" alt="cpp">
+        <img src="https://github.com/565059/565059/assets/118855900/1853d329-f9e5-44b3-a8af-d589ec24e0fc" alt="aws">
     </div>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="_blank" href="">
