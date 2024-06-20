@@ -9,7 +9,7 @@
     </h1>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
-            <img src="https://github.com/565059/565059/assets/118855900/a790e4f0-4e58-4c3d-9258-b674498509fb" alt="statistics">
+            <img src="https://github.com/565059/565059/assets/118855900/bc813212-77a9-4d7b-98ba-b949286d7e27" alt="statistics">
         </a>
     </h2>
     <div align="center">
@@ -19,12 +19,12 @@
     </div>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
-            <img src="https://github.com/565059/565059/assets/118855900/f8e683e5-f4ee-4bb1-8ded-eb9e069545c0" alt="lang-tools">
+            <img src="https://github.com/565059/565059/assets/118855900/40eec5af-5962-41bb-a92a-4460291b844d" alt="lang-tools">
         </a>
     </h2>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="_blank" href="">
-            <img src="https://github.com/565059/565059/assets/118855900/4f7ca50e-23fe-4553-be40-53526e5491a7" alt="soc-buttons">
+            <img src="https://github.com/565059/565059/assets/118855900/486fbcf0-60d6-4d8e-88e2-4e15d4dd1eb8" alt="soc-buttons">
         </a>
     </h2>
     <div align="center">
