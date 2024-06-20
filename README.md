@@ -22,6 +22,9 @@
             <img src="https://github.com/565059/565059/assets/118855900/40eec5af-5962-41bb-a92a-4460291b844d" alt="lang-tools">
         </a>
     </h2>
+    <div align="center">
+        <img src="https://github.com/565059/565059/assets/118855900/72add8bc-1165-4c5e-b918-d985060edc76" alt="cpp">
+    </div>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="_blank" href="">
             <img src="https://github.com/565059/565059/assets/118855900/486fbcf0-60d6-4d8e-88e2-4e15d4dd1eb8" alt="soc-buttons">
