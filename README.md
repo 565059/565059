@@ -36,10 +36,10 @@
     </h2>
     <h4 align="center">
         <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/56_50_59">
-            <img src="https://github.com/565059/565059/assets/118855900/58e785db-e118-4d20-ae49-6741f6a0410c" alt="twitter">
+            <img src="https://github.com/565059/565059/assets/118855900/af0b27e7-f37c-43ea-bd89-60c4062d594c" alt="twitter">
         </a>
         <a rel="nofillow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/luis-fern%C3%A1ndez-castelo-06358025b/?locale=en_US">
-            <img src="https://github.com/565059/565059/assets/118855900/b16540d5-8016-4e06-82ca-375ada9caf45" alt="linkedin">
+            <img src="https://github.com/565059/565059/assets/118855900/fbc69b01-c685-4c8d-a7b4-bf9353e06e31" alt="linkedin">
         </a>
     </h4>
 </samp>
