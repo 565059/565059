@@ -12,7 +12,6 @@
             <img src="https://github.com/565059/565059/assets/118855900/a790e4f0-4e58-4c3d-9258-b674498509fb" alt="statistics">
         </a>
         <br>
-        <br>
         <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=565059">
         </a>
@@ -21,7 +20,6 @@
         <a rel="nofollow noopener noreferrer" target="_blank" href="">
             <img src="https://github.com/565059/565059/assets/118855900/4f7ca50e-23fe-4553-be40-53526e5491a7" alt="soc-buttons">
         </a>
-        <br>
         <br>
         <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/56_50_59">
             <img src="https://github.com/565059/565059/assets/118855900/58e785db-e118-4d20-ae49-6741f6a0410c" alt="twitter">
