@@ -23,7 +23,7 @@
         </a>
     </h2>
     <h4 align="center">
-        <img src="https://github.com/565059/565059/assets/118855900/c91391d1-e7cb-49a4-890c-1c32b8526d5d" alt="java">
+        <img src="https://github.com/565059/565059/assets/118855900/f79cb34d-fe26-4bf0-800f-a8abfc591998" alt="java">
         <img src="https://github.com/565059/565059/assets/118855900/767ef2c2-f939-4b6d-8df3-0125ec1af89c" alt="python">
         <img src="https://github.com/565059/565059/assets/118855900/79104a81-1ba1-457a-b748-5acd1f4b69bb" alt="csharp">
         <img src="https://github.com/565059/565059/assets/118855900/dcfd46fc-6236-4c31-ad34-b6d8fcbf230b" alt="cpp">
