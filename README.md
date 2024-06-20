@@ -8,7 +8,9 @@
         <img src="https://github.com/565059/565059/assets/118855900/9a829ae6-47c2-4f61-9e1c-2e39ce12272d" alt="pc">
     </h1>
     <h2 align="center">
-        My Statistics
+        <a>
+        <img src="https://github.com/565059/565059/assets/118855900/a790e4f0-4e58-4c3d-9258-b674498509fb" alt="statistics">
+        </a>
         <br>
         <br>
         <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
