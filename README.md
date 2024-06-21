@@ -16,7 +16,6 @@
         <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=565059">
         </a>
-    </div>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
             <img src="https://github.com/565059/565059/assets/118855900/40eec5af-5962-41bb-a92a-4460291b844d" alt="lang-tools">
@@ -30,8 +29,8 @@
         <br>
         <br>
         <img src="https://github.com/565059/565059/assets/118855900/1853d329-f9e5-44b3-a8af-d589ec24e0fc" alt="aws">
-        <img src="https://github.com/565059/565059/assets/118855900/b1d2207f-23e1-4345-b7eb-effd30f8f1ae" alt="vscode">
-        <img src="https://github.com/565059/565059/assets/118855900/a32c3b43-6d0f-4213-b24c-1fe1492a4518" alt="vs">
+        <img src="https://github.com/565059/565059/assets/118855900/5a6e6007-a2b5-4650-b505-868dbcf4c924" alt="vscode">
+        <img src="https://github.com/565059/565059/assets/118855900/a9e224e1-10f0-4a88-8863-e0321678443d" alt="vs">
     </h4>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="_blank" href="">
