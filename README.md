@@ -6,9 +6,8 @@
     </h1>
     <h4 align="center">
         <img src="https://github.com/565059/565059/assets/118855900/3b644c9e-6a68-4add-8f1d-a8c1e2d6331d" alt="pc">
-        <img src="https://github.com/565059/565059/assets/118855900/da93633a-d49a-4cef-9724-0a616152bcaa" alt="about-me">
+        <img src="https://github.com/565059/565059/assets/118855900/bbdf48d7-a906-416d-95f2-16e157eebd6b" alt="about-me">
     </h4>
-    ![about-me](https://github.com/565059/565059/assets/118855900/bbdf48d7-a906-416d-95f2-16e157eebd6b)
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
             <img src="https://github.com/565059/565059/assets/118855900/bc813212-77a9-4d7b-98ba-b949286d7e27" alt="statistics">
