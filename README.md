@@ -6,7 +6,7 @@
     </h1>
     <h4 align="center">
         <img src="https://github.com/565059/565059/assets/118855900/3b644c9e-6a68-4add-8f1d-a8c1e2d6331d" alt="pc">
-        <img src="https://github.com/565059/565059/assets/118855900/2da7e05f-7567-476c-ac6c-706ae06010c8" alt="about-me">
+        <img src="https://github.com/565059/565059/assets/118855900/0a56865c-3dee-4ec8-82e7-c20545dce2c3" alt="about-me">
     </h4>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
