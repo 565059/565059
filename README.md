@@ -8,11 +8,6 @@
         <img src="https://github.com/565059/565059/assets/118855900/3b644c9e-6a68-4add-8f1d-a8c1e2d6331d" alt="pc">
         <img src="https://github.com/565059/565059/assets/118855900/0a56865c-3dee-4ec8-82e7-c20545dce2c3" alt="about-me">
     </h4>
-    <div align="center">
-        <a rel="nofollow noopener noreferrer" target="blank" href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=565059" alt="statistics">
-        </a>
-    </div>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
             <img src="https://github.com/565059/565059/assets/118855900/40eec5af-5962-41bb-a92a-4460291b844d" alt="lang-tools">
