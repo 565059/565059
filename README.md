@@ -13,10 +13,6 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=565059" alt="statistics">
         </a>
     </h2>
-    <div align="center">
-        <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=565059">
-        </a>
     <h2 align="center">
         <a rel="nofollow noopener noreferrer" target="blank" href="">
             <img src="https://github.com/565059/565059/assets/118855900/40eec5af-5962-41bb-a92a-4460291b844d" alt="lang-tools">
