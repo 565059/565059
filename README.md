@@ -9,8 +9,8 @@
         <img src="https://github.com/565059/565059/assets/118855900/0a56865c-3dee-4ec8-82e7-c20545dce2c3" alt="about-me">
     </h4>
     <h2 align="center">
-        <a rel="nofollow noopener noreferrer" target="blank" href="">
-            <img src="https://github.com/565059/565059/assets/118855900/bc813212-77a9-4d7b-98ba-b949286d7e27" alt="statistics">
+        <a rel="nofollow noopener noreferrer" target="blank" href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=565059" alt="statistics">
         </a>
     </h2>
     <div align="center">
