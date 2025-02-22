@@ -35,8 +35,8 @@
         </a>
     </h2>
     <h4 align="center">
-        <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/56_50_59">
-            <img src="https://github.com/565059/565059/assets/118855900/af0b27e7-f37c-43ea-bd89-60c4062d594c" alt="twitter">
+        <a rel="nofollow noopener noreferrer" target="_blank" href="https://bsky.app/profile/565059.bsky.social">
+            <img src="https://github.com/user-attachments/assets/6e357108-efd8-4a79-ab68-84c122521803" alt="bluesky">
         </a>
         <a rel="nofillow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/luis-fern%C3%A1ndez-castelo-06358025b/?locale=en_US">
             <img src="https://github.com/565059/565059/assets/118855900/fbc69b01-c685-4c8d-a7b4-bf9353e06e31" alt="linkedin">
